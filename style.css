@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    background-color: black;
+ 
+    
+}
+#main {
+    
+    text-align: center;
+    
+}
+
+#main>canvas{
+    
+    margin: 0px;
+}
